@@ -60,7 +60,7 @@
     <!-- Download CV Section -->
 
     <div class="mb-12" data-aos="fade-up">
-      <a href="https://docs.google.com/document/d/10QG-N5_X_YgFflXU3A970p7OFIrb85j7XfnXuVh7_yw/edit?usp=sharing"
+      <a href="https://drive.google.com/file/d/1_me-8Vkc_6X9Yb374UPstIRKa81ksdsO/view?usp=sharing"
         target="_blank" class="
           md:w-2/12
           w-1/4
