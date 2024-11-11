@@ -45,8 +45,8 @@
             py-2
             border
             rounded
-            text-purple-300
-            border-green-500
+            text-yellow-400
+            border-yellow-500
             hover:text-white
             hover:border-white
           ">

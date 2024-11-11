@@ -7,7 +7,7 @@
         justify-center
         font-bold
         md:text-5xl
-        text-xl text-green-500
+        text-xl text-yellow-400
       "
     >
       get in touch with me &#128516;

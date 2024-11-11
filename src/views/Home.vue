@@ -11,7 +11,7 @@
 
     <div class="flex justify-center animate__animated animate__fadeIn">
       <h1 class="md:text-xl text-sm font-medium">
-        Flutter Mobile Engineer
+        Flutter Mobile Engineer 🎯
       </h1>
     </div>
     <!-- End Section name and tagline -->
@@ -34,12 +34,12 @@
 
     <!-- Section about -->
     <div id="introduction" class="md:py-10 pt-16">
-      <h1 class="text-green-500 md:text-5xl text-xl pb-10" data-aos="fade-up">
+      <h1 class="text-yellow-400 md:text-5xl text-xl pb-10" data-aos="fade-up">
         Intro
       </h1>
       <h1 class="md:text-xl text-sm aos-init aos-animate mb-5" data-aos="fade-up">
         Hello everyone! I'm
-        <span class="text-green-500">Muhammad Daffa Razan</span>, a passionate Mobile Developer with 3 years of hands-on
+        <span class="text-yellow-400">Muhammad Daffa Razan</span>, a passionate Mobile Developer with 3 years of hands-on
         experience crafting engaging and efficient Flutter apps. Over the past 4+ years in mobile development, I've honed
         my skills, focusing primarily on Flutter. I've built apps using Clean Architecture, making use of BLoC, Provider,
         and GetX to ensure clean, scalable code and top-notch performance.
@@ -88,12 +88,12 @@
 
     <!-- Section expertise -->
     <div class="">
-      <h1 class="text-green-500 md:text-5xl text-xl md:pb-10 pb-5" data-aos="fade-up">
+      <h1 class="text-yellow-400 md:text-5xl text-xl md:pb-10 pb-5" data-aos="fade-up">
         Expertise
       </h1>
 
       <div id="webexpertise">
-        <h1 class="text-green-500 md:text-3xl text-md md:pb-5 pb-5" data-aos="fade-up">
+        <h1 class="text-yellow-400 md:text-3xl text-md md:pb-5 pb-5" data-aos="fade-up">
           Web Dev
         </h1>
         <div class="grid grid-cols-4 gap-5 md:py-10 py-5" data-aos="flip-left">
@@ -117,7 +117,7 @@
       </div>
 
       <div id="mobile_expertise">
-        <h1 class="text-green-500 md:text-3xl text-md md:pb-5 pb-5" data-aos="fade-up">
+        <h1 class="text-yellow-400 md:text-3xl text-md md:pb-5 pb-5" data-aos="fade-up">
           Mobile Dev
         </h1>
         <div class="grid grid-cols-4 gap-5 md:py-10 py-5" data-aos="flip-left">
@@ -127,7 +127,7 @@
       </div>
 
       <div id="designexpertise">
-        <h1 class="text-green-500 md:text-3xl text-md md:pb-5 pb-5" data-aos="fade-up">
+        <h1 class="text-yellow-400 md:text-3xl text-md md:pb-5 pb-5" data-aos="fade-up">
           Design
         </h1>
         <div class="grid grid-cols-4 gap-5 md:py-10 py-5" data-aos="flip-left">
@@ -139,7 +139,7 @@
       </div>
 
       <div id="languageexpertise">
-        <h1 class="text-green-500 md:text-3xl text-md md:pb-5 pb-5" data-aos="fade-up">
+        <h1 class="text-yellow-400 md:text-3xl text-md md:pb-5 pb-5" data-aos="fade-up">
           Programming Language
         </h1>
         <div class="grid grid-cols-4 gap-5 md:py-10 pt-5 pb-2" data-aos="flip-left">

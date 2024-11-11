@@ -6,7 +6,7 @@
         justify-center
         font-bold
         md:text-5xl
-        text-xl text-green-500
+        text-xl text-yellow-400
       ">
       projects 🚀
     </h1>
@@ -21,7 +21,7 @@
             justify-center
             font-bold
             md:text-3xl
-            text-md text-green-500
+            text-md text-yellow-400
           ">
           Mobile apps
         </h1>
@@ -250,7 +250,7 @@
             justify-center
             font-bold
             md:text-3xl
-            text-md text-green-500
+            text-md text-yellow-400
           ">
           Web apps
         </h1>
